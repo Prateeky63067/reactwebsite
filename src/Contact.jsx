@@ -18,7 +18,7 @@ setData((preVal)=>{
   }
   const formSubmit=(e)=>{
   e.preventDefault();
-  alert(`my name is ${data.fullname}. My phone number is ${data.phone}. my email is ${data.email}.message is ${data.msg}`)
+  // alert(`my name is ${data.fullname}. My phone number is ${data.phone}. my email is ${data.email}.message is ${data.msg}`)
   }
   return (
     <>
