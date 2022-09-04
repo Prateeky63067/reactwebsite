@@ -28,7 +28,7 @@ setData((preVal)=>{
       <div className="container contact_div">
         <div className="row">
           <div className="col-md-6 col-10 mx-auto">
-            <form onSubmit={formSubmit}>
+            <form action="https://formspree.io/f/mzbwdzqy" method="POST">
               <div className="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">
                   FullName
